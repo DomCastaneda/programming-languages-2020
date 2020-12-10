@@ -13,6 +13,7 @@ Here are the basic rules for assignments, let me know if there are any questions
 - As git has version control, do not create different files/folders for the different versions of the same source code file. One can always go back and look at the history to access previous versions. Use meaningful commit-messages that help to navigate the history. 
 - To collaborate on the same file, consider using branches (eg one for each student). Do not make copies of the same file: Branches allow collaborators to work on the same file independently. Branches can then be merged later again. 
 - Do not commit machine generated files. Consider using a [.gitignore](https://git-scm.com/docs/gitignore).
+- If you know that your program does not pass certain tests, do tell me about it. **You may loose more points, if you try to hide known bugs.** (And note that not carefully testing your programs does not constitute a valid excuse.)
 
 Anything unclear? Any questions? Let me know ...
 
@@ -25,6 +26,6 @@ Anything unclear? Any questions? Let me know ...
 
 [Assignment 2](assignment-2.md) (9%): Interpreter of a functional programming language
 
-Assignment 3 (9%): Interpreter of an imperative programming language
+[Assignment 3](assignment-3.md) (19%): Interpreter of an imperative programming language
 
 

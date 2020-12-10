@@ -1,6 +1,6 @@
 # Extra Credit
 
-If you want to do a project for extra credit, get in touch with me.
+If you want to do a project for extra credit, get in touch with me as soon as possible, certainly no later than **Fri, Dec 11**. 
 
 Here are some ideas.
 
@@ -18,7 +18,7 @@ On the other hand, this approach alsomeans that we compromise both efficiency an
 
 #### Adding Features to `LambdaNat`
 
-- Binary numbers are much more efficient than successor numbers. Replace successor numbers in `LambdaNat` with Haskell's integer arithmetic. Add "+", "-", "*" to your grammar and evaluate these operations using Haskell's arithmetic. Call the new language and interpreter `LambdaNat6`. Can you evaluate `fib 20` in `LambdaNat6`? What is the largest `n` for which fibonacci-in-Python terminates without letting the user wait? How does `LambdaNat6` improve the efficiency of mergesort?
+- Binary numbers are much more efficient than successor numbers. Replace successor numbers in `LambdaNat` with Haskell's integer arithmetic. Add "+", "-", "*" to your grammar and evaluate these operations using Haskell's arithmetic. Call the new language and interpreter `LambdaNat6`. Can you evaluate `fib 20` in `LambdaNat6`? What is the largest `n` for which fibonacci-in-Python terminates without letting the user wait? How does `LambdaNat6` improve the efficiency of mergesort? 
 
 - Currently, we have only one data type, namely expressions. Add Booleans to LambdaNat. If you extend `LambdaNat6` you should use Haskell's Booleans for this (otherwise you can also implement your own). Add a new type of expressions, say, `BExp` to the grammar. Add operations `and`, `or`, `not` as well as `==`, `<=`, `<`, `>`, `>=`. Rewrite the mergesort of Assignment 2 in this new language for testing. Note that you need now two evaluation functions, one for `Exp` and one for `BExp`.
 
@@ -38,6 +38,8 @@ Later in the course we will add variables, assignment, while loops and pointers.
 - Add pattern matching.
 
 - Add a type system.
+
+We will learn about type checking in next semester's Compiler Construction.
 
 ## Encoding all computation in lambda-calculus
 

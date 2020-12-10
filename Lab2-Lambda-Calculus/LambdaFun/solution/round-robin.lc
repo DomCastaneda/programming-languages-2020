@@ -1,0 +1,17 @@
+val newCList = \e.
+    let val a = new [] in
+    a := [e,a];
+    a;;
+
+-- complete the following functions
+
+-- val next = \a.
+
+-- val get = \a. 
+
+-- val insert = \e. \a. 
+
+-- val delete = \a. 
+
+-- val update = \e. \a. 
+
