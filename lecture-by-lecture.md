@@ -54,7 +54,7 @@
   - [Parsing Lambda Calculus Expressions 1](https://youtu.be/eYstx7uuE6c)
   - [Parsing Lambda Calculus Expressions 2](https://youtu.be/yls1NEUlzZA)
   - [Operational Semantics of Lambda Calculus](https://youtu.be/h4aT42t7v9c)
-  - [Reducing Lambda Expressions](https://youtu.be/for3Meg1Lbc)
+  - [Reducing Lambda Expressions](https://youtu.be/for3Meg1Lbc). While watching this video, do the reductions in your own text editor. Frequently stop the video and guess the next step. Work along, it is all just the beta rule.
   - [Fixed Point Combinator](https://youtu.be/XvDOwbSh3xE)
 
 #### Blog
@@ -98,7 +98,7 @@ Deadline for a first draft of the first parts of your [blog](blog.md) (5 weeks =
 
 #### Assignment 3
 
-The Programming Language [LambdaFun](https://github.com/alexhkurz/programming-languages-2020/tree/master/Lab2-Lambda-Calculus/LambdaFun)   
+The Programming Language [LambdaFun](https://github.com/alexhkurz/programming-languages-2020/tree/master/Lab2-Lambda-Calculus/LambdaFun). 
 
 
 ---
