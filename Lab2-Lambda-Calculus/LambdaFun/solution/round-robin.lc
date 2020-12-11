@@ -5,9 +5,12 @@ val newCList = \e.
 
 -- complete the following functions
 
--- val next = \a.
+val next = \a. 
+    case !a of { [e',a'] -> a' };;
 
--- val get = \a. 
+
+val get = \a. 
+    case !a of { [e',a'] -> e' };;
 
 -- val insert = \e. \a. 
 
