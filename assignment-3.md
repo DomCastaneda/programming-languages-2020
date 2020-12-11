@@ -103,7 +103,7 @@ Each group submits their answer by sending me a link to a github repository via 
 
 To assess your work, I will run the code in the file `round_robin.lc`, so make sure that the functions you implement all run as expected. 
 
-**You need to include the tests of []() in round_robin.lc.** In particular, upon loading `round-robin.lc`, the function `testAll` should be executed.
+**You need to include the tests of [round-robin-test.lc](https://github.com/alexhkurz/programming-languages-2020/blob/master/Lab2-Lambda-Calculus/LambdaFun/solution/round-robin-test.lc) in round_robin.lc.** In particular, upon loading `round-robin.lc`, the function `testAll` should be executed.
 
 #### Specification
 
@@ -156,15 +156,15 @@ The library will consist of the following functions.[^types]
 
 ### Testing
 
-The explanations below refer to the file [round-robin-test.lc]().
+The explanations below refer to the file [round-robin-test.lc](https://github.com/alexhkurz/programming-languages-2020/blob/master/Lab2-Lambda-Calculus/LambdaFun/solution/round-robin-test.lc).
 
 #### Testing the individual functions
 
-The file [round-robin-test.lc]() contains tests such as `testInsert1`. But feel free to write your own.
+The file [round-robin-test.lc](https://github.com/alexhkurz/programming-languages-2020/blob/master/Lab2-Lambda-Calculus/LambdaFun/solution/round-robin-test.lc) contains tests such as `testInsert1`. But feel free to write your own.
 
 After you implemented all the functions and they test as expected you can turn to the round robin algorithm described next.
 
-#### Testing by running the round robin algorithms
+#### Testing by running the round robin algorithm
 
 One of the standard applications of cyclic lists is to collect tasks and work on them one by one going around the list until all tasks are completed. The following tests are based on this idea.
 
