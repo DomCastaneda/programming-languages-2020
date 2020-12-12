@@ -68,6 +68,8 @@ Get in touch if you want to hear more about how these articles are related to th
 
 None of this is required reading, but all of it is part of the wider landscape in which this course is situated. Many of these links are to talks, videos, articles and blogs that do not represent carefully researched peer-reviewed authoritative expert consensus. Do not take opinions for granted but as an invitation to start a discussion.
 
+- [the No-Code Software Revolution](https://medium.com/inc./welcome-to-the-no-code-software-revolution-6b75ee967df7). Will building apps without writing code will change what we understand by "programming language"?
+
 - [rise4fun](https://rise4fun.com/) has a long list of software engineering tools for program analysis and verification that you can run in your webbrowser.
 
 - Unison is a new programming language based on the idea of [content-addressed code](https://www.unisonweb.org/docs/tour). Search the linked tour for "functional" to see why it is important for Unison to be a pure functional programming language. I only worked through the tour sofar, but it looks very interesting.
