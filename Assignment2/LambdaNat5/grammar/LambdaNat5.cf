@@ -1,0 +1,42 @@
+------------------------------------------------------------------
+-- Lambda Calculus 5.3 with numbers, conditional, recursion, lists
+------------------------------------------------------------------
+
+Prog.      Program ::= Exp ;  
+EAbs.      Exp1 ::= "\\" Id "." Exp ;   
+EIf.       Exp2 ::= "if" Exp "=" Exp "then" Exp "else" Exp ; 
+ELet.      Exp3 ::= "let" Id "=" Exp "in" Exp ;  
+ERec.      Exp4 ::= "let rec" Id "=" Exp "in" Exp ;
+EHd.       Exp6 ::= "hd" Exp ;
+ETl.       Exp6 ::= "tl" Exp ;
+EMinusOne. Exp7 ::= "minus_one" Exp ;
+EApp.      Exp8 ::= Exp8 Exp9 ;  
+ENil.      Exp9 ::= "#" ; -- EndOfList, aka empty list
+ECons.     Exp9 ::= Exp10 ":" Exp9 ;
+ENat0.     Exp10 ::= "0" ; 
+ENatS.     Exp10 ::= "S" Exp10 ; 
+
+EVar.      Exp11 ::= Id ;  
+
+internal   EFix.      Exp5 ::= "fix" Exp ;  -- only for abstract syntax
+
+coercions Exp 11 ;
+
+token Id (letter (letter | digit | '_')*) ;
+
+comment "//" ;
+comment "/*" "*/" ;
+
+---------------------------------
+-- how are the following parsed? 
+-- f a:#
+-- a: b c : #
+-- a: (b c) : #
+-- a : b
+-- # : #
+-- if a=b then c else d else
+-- let f=g in a b
+-- fix a b
+-- hd a b
+-- hd a:b
+----------------------------------

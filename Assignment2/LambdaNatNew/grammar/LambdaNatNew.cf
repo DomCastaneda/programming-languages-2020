@@ -1,0 +1,18 @@
+-----------------------------------------
+-- Lambda Calculus with Natural Numbers 2
+-----------------------------------------
+
+Prog.   Program ::= Exp ; 
+EAbs.   Exp1 ::= "\\" Id "." Exp ;  
+EIf.    Exp2 ::= "if" Exp "=" Exp "then" Exp "else" Exp ;
+EApp.   Exp3 ::= Exp3 Exp4 ; 
+ENat0.  Exp4 ::= "0" ;
+ENatS.  Exp4 ::= "S" Exp4 ; 
+EVar.   Exp5 ::= Id ; 
+
+coercions Exp 4 ;
+
+token Id (letter (letter | digit | '_')*) ;
+
+comment "//" ;
+comment "/*" "*/" ;

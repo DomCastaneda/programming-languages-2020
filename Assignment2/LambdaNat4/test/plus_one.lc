@@ -1,0 +1,7 @@
+// plus_one
+(\ x . S x) S 0
+
+/*
+echo "(\ x . S x) S S 0" | stack exec LambdaNat-exe
+echo "(\ x . S x) S S S 0" | stack exec LambdaNat-exe
+*/
