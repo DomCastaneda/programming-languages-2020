@@ -1,3 +1,0 @@
-// This program loops with cbv and terminates with cbn
-// Exercise: Explain why.
-(\x.\y.y) ((\x. (x x)) (\x. (x x))) z

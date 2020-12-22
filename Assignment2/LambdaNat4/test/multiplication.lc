@@ -1,2 +1,0 @@
-let rec plus = \x.\y. if x=0 then y else S (plus y) in 
-let rec mult = \x.\y. if x=0 then y else x (plus y)(mult x y) in 
