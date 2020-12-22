@@ -41,7 +41,6 @@ To load a file you can type:
 ```
 
 ### References
-Sites used:
 https://www.markdownguide.org/basic-syntax/ 
 https://www.freecodecamp.org/news/how-to-format-code-in-markdown/
 were both used to assist with markdown language.

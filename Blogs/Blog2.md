@@ -49,3 +49,7 @@ For Example:
 data Bool = False | True
 data Color = Blue | Yellow | Red
 ```
+
+### References
+https://www.haskell.org/tutorial/goodies.html
+https://www.haskell.org/tutorial/functions.html

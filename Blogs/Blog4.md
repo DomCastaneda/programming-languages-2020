@@ -31,4 +31,3 @@ With BNFC, I was able to generate a parser for my calculator by running the code
 bnfc -m -haskell numbers.cf
 make
 ```
-
