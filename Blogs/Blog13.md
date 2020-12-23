@@ -12,9 +12,9 @@ The Chomsky Hierarchy in Theory of Computation states that languages are divided
 2. Its transitions may not print other symbols over the endmarkers.
 3. Its transitions may neither move to the left of the left endmarker nor to the right of the right endmarker"(wiki).
 
-**Type 2 (Context Free Grammar)** is a language that is recognized by a Pushdown automata.
+**Type 2 (Context Free Grammar)** is a language that is recognized by a Pushdown automata. "A Pushdown automata is a finite automata with extra memory called stack which helps Pushdown automata to recognize Context Free Languages."(geeksforgeeks)
 
-**Type 3 (Regular Grammar)** is a language that can be accepted by a finite state automaton. It is a very restricted language.
+**Type 3 (Regular Grammar)** is a language that can be accepted by a finite state automaton.The finite automata or finite state machine is an abstract machine which have five elements or tuple. It is a very restricted language.
 
 <img src="https://devopedia.org/images/article/210/7090.1571152901.jpg" alt="Chomsky Hierarchy" class = "alignleft" height = "300" width="500"/>
 
@@ -22,3 +22,5 @@ The Chomsky Hierarchy in Theory of Computation states that languages are divided
 https://www.geeksforgeeks.org/chomsky-hierarchy-in-theory-of-computation/
 
 https://en.wikipedia.org/wiki/Linear_bounded_automaton
+
+https://www.geeksforgeeks.org/introduction-of-pushdown-automata/
