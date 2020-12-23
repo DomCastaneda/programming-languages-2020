@@ -1,5 +1,5 @@
 # Week 8 Blog
-**This blog will explain computability theory and the halting problem**
+**This blog will explain computability theory and the halting problem.**
 
 ## Computability (Recursion) Theory
 Computability Theory is the area of mathematics dealing with the concept of an effective procedure (algorithm), a procedure that can be carried out by following specific rules. 
