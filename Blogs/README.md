@@ -31,7 +31,7 @@ ID: 2339062
 
 ## [Blog 13](https://github.com/DomCastaneda/programming-languages-2020/blob/master/Blogs/Blog13.md): Chomsky Hierarchy
 
-## [Blog 14](https://github.com/DomCastaneda/programming-languages-2020/blob/master/Blogs/Blog14.md): Disproving the Church-Turing Thesis?
+## [Blog 14](https://github.com/DomCastaneda/programming-languages-2020/blob/master/Blogs/Blog14.md): Kolmogorov Complexity
 
 ## [Blog 15](https://github.com/DomCastaneda/programming-languages-2020/blob/master/Blogs/Blog15.md): Bonus Haskell - Anonymous Functions
 

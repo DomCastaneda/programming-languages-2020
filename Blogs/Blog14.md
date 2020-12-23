@@ -1,4 +1,7 @@
-# Week 5 Blog
-## Disproving the Church-Turing Thesis?
+# Week 14 Blog
+## Kolmogorov Complexity
+
+## Self-delimiting Code
+
 ### References
-https://cstheory.stackexchange.com/questions/88/what-would-it-mean-to-disprove-church-turing-thesis
+http://www.scholarpedia.org/article/Turing_machine

@@ -1,5 +1,4 @@
 # Week 11 Blog
-## Self-delimiting Code
-
+## Church Encoding
+Every model of computation makes the same distinction between computable and non-computable languages, called the Church-Turing thesis.
 ### References
-http://www.scholarpedia.org/article/Turing_machine
