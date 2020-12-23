@@ -13,7 +13,7 @@ A Turing machine consists of a finite program(finite control) that is able to ch
     -shift the head one cell left or right.
 
 
-<img src="https://iq.opengenus.org/content/images/2019/07/TurigMachine.png" alt="Turing Machine" class = "alignleft" width="300"/>
+<img src="https://iq.opengenus.org/content/images/2019/07/TurigMachine.png" alt="Turing Machine" class = "alignleft" height = "300" width="500"/>
 
 ### References
 https://www.cs.cmu.edu/~rwh/talks/cs50talk.pdf
