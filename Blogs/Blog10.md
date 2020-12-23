@@ -1,5 +1,5 @@
 # Week 10 Blog
-## Church-Turing Thesis
+## Optional(but interesting)
 In 1935, Alan Turing 
 
 ### References
