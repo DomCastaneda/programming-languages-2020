@@ -35,4 +35,4 @@ addOneList' lst = map (\x -> x + 1) lst
 <img src="https://memegenerator.net/img/instances/67074493.jpg" alt=":)" class = "alignleft" height = "500" width="400"/>
 
 ### References
-[Anonymous Function Wiki](https://wiki.haskell.org/Anonymous_function)https://wiki.haskell.org/Anonymous_function
+[Anonymous Function Wiki](https://wiki.haskell.org/Anonymous_function)
