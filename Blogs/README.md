@@ -19,7 +19,7 @@ ID: 2339062
 
 ## [Blog 7](https://github.com/DomCastaneda/programming-languages-2020/blob/master/Blogs/Blog7.md): The Turing Machine
 
-## [Blog 8](https://github.com/DomCastaneda/programming-languages-2020/blob/master/Blogs/Blog8.md): A Turing Machine Demonstration
+## [Blog 8](https://github.com/DomCastaneda/programming-languages-2020/blob/master/Blogs/Blog8.md): Computability Theory
 
 ## [Blog 9](https://github.com/DomCastaneda/programming-languages-2020/blob/master/Blogs/Blog9.md): Optional Exercise (Turing machines as rewrite systems)
 
