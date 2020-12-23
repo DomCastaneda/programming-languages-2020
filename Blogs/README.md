@@ -25,9 +25,9 @@ ID: 2339062
 
 ## [Blog 10](https://github.com/DomCastaneda/programming-languages-2020/blob/master/Blogs/Blog10.md): Turing Completeness
 
-## [Blog 11](https://github.com/DomCastaneda/programming-languages-2020/blob/master/Blogs/Blog11.md): Church Encoding
+## [Blog 11](https://github.com/DomCastaneda/programming-languages-2020/blob/master/Blogs/Blog11.md): Church-Turing Thesis
 
-## [Blog 12](https://github.com/DomCastaneda/programming-languages-2020/blob/master/Blogs/Blog12.md): Church-Turing Thesis
+## [Blog 12](https://github.com/DomCastaneda/programming-languages-2020/blob/master/Blogs/Blog12.md): Church Encoding
 
 ## [Blog 13](https://github.com/DomCastaneda/programming-languages-2020/blob/master/Blogs/Blog13.md): Chomsky Hierarchy
 
