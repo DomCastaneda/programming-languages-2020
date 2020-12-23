@@ -1,6 +1,4 @@
-# Week 9 Blog
-## Church-Turing Thesis
-In 1935, Alan Turing 
+# Week 8 Blog
+## Optional (but interesting) Exercise (Turing machines as rewrite systems)
 
 ### References
-https://www.cs.cmu.edu/~rwh/talks/cs50talk.pdf
