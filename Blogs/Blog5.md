@@ -14,6 +14,8 @@ Prompt> (\x y -> x + y) 1 3
 4 :: Integer
 ```
 
+**To learn more about anonymous functions in Haskell go [Here](https://github.com/DomCastaneda/programming-languages-2020/blob/master/Blogs/Blog15.md):.**
+
 ## Why We Use Lamda Expression
 It is more useful to use lambda exression rather than giving a function a name in some cases. It is also used when we need some functions only once. Two useful cases to use lambda are when using map, flip or reduce. "Lambda calculus is a formal mathematical system for expressing the notion of computation." Functional programming languages are based upon the lambda calculus such as Haskell. We use lambda for passing the function result to a higher order function.
 
