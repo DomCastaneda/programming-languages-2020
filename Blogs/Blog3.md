@@ -21,6 +21,7 @@ Here is a way to explain lambda abstraction:
 - 2 - 1
 - 2x - 1
 - sinx - cosx
+
 They all are built from smaller terms using '-'. To abstract away from the details and focus on the common properties of these terms, we just turn everything that is not - into variables and end up with 𝜆𝑥.𝜆𝑦.𝑥-𝑦.
 
 I will show the following code using lambda abstraction.
