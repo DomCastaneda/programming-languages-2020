@@ -33,5 +33,5 @@ ID: 2339062
 
 ## [Blog 14](https://github.com/DomCastaneda/programming-languages-2020/blob/master/Blogs/Blog14.md): Disproving the Church-Turing Thesis?
 
-## [Blog 15](https://github.com/DomCastaneda/programming-languages-2020/blob/master/Blogs/Blog15.md): Bonus Haskell - Anonymous Functions in Haskell
+## [Blog 15](https://github.com/DomCastaneda/programming-languages-2020/blob/master/Blogs/Blog15.md): Bonus Haskell - Anonymous Functions
 
