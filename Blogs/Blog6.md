@@ -9,8 +9,8 @@ A Turing machine consists of a finite program(finite control) that is able to ch
 1. At time 0 the head is positioned on a start cell, and the finite control is in state x0. 
 2. At time 0 all cells are blank(B), except for a contiguous finite sequence of cells, extending from the start cell to the right, which contain 0's and 1's.
 3. This binary sequence is called the `input.' The device can perform the following basic operations:
-    -write an element from A={0,1,B} in the cell it scans
-    -shift the head one cell left or right.
+    * write an element from A={0,1,B} in the cell it scans
+    * shift the head one cell left or right.
 
 
 <img src="https://iq.opengenus.org/content/images/2019/07/TurigMachine.png" alt="Turing Machine" class = "alignleft" height = "300" width="500"/>
