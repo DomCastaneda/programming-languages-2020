@@ -1,4 +1,5 @@
 # Week 7 Blog
+**This blog will go into detail on my research on how the Turing machine processes algorithms.**
 ## How the Turing Machine Works
 A Turing machine consists of a finite program(finite control) that is able to change a linear list of cells using one access pointer called the head. The two directions on the cells, or tape are right and left. The finite program can be in any one of a finite set of states X, and each cell can contain a 0, 1, or a blank. The time starts at 0 when the computation starts and are incremented by 1 (Ex. 0,1,2...). 
 
