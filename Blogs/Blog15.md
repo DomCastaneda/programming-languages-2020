@@ -32,7 +32,7 @@ Ex. Using a map and foldr/foldr with anonymous functions:
 ```
 addOneList' lst = map (\x -> x + 1) lst
 ```
-<img src="https://memegenerator.net/img/instances/67074493.jpg" alt=":)" class = "alignleft" height = "500" width="300"/>
+<img src="https://memegenerator.net/img/instances/67074493.jpg" alt=":)" class = "alignleft" height = "500" width="400"/>
 
 ### References
 https://wiki.haskell.org/Anonymous_function
