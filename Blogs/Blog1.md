@@ -37,7 +37,23 @@ For example with:
 ```
 A = 2 * 2
 ```
-Haskell can figure out A is a number throught the type inference.
+Haskell can figure out A is a number through type inference.
+
+We can show how Haskell uses type inference by using the :t command in GHCI:
+```
+ghci> :t 'x'  
+'x' :: Char  
+ghci> :t True  
+True :: Bool  
+ghci> :t "StringOfChar"  
+"StringOfChar" :: [Char]  
+ghci> :t (True, 'x')  
+(True, 'x') :: (Bool, Char)  
+ghci> :t 1 == 2  
+1 == 2 :: Bool 
+```
+
+The command :t on an expression prints out the expression followed by :: and its type.
 
 ### References
 https://www.freecodecamp.org/news/how-to-format-code-in-markdown/
