@@ -29,7 +29,7 @@ ID: 2339062
 
 ## [Blog 12](https://github.com/DomCastaneda/programming-languages-2020/blob/master/Blogs/Blog12.md): Church Encoding
 
-## [Blog 13](https://github.com/DomCastaneda/programming-languages-2020/blob/master/Blogs/Blog13.md): The Chomsky Hierarchy in Theory of Computation
+## [Blog 13](https://github.com/DomCastaneda/programming-languages-2020/blob/master/Blogs/Blog13.md): Chomsky Hierarchy
 
 ## [Blog 14](https://github.com/DomCastaneda/programming-languages-2020/blob/master/Blogs/Blog14.md): Kolmogorov Complexity
 
