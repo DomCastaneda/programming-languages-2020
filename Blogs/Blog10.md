@@ -15,4 +15,4 @@ The only way to prove lambda calculus is Turing complete would be by implementin
 ### References
 https://medium.com/@evinsellinwhat-exactly-is-turing-completeness-a08cc36b26e2
 
-https://stackoverflow.com/questions/25255413 how-did-haskell-add-turing-completeness-to-system-f
+https://stackoverflow.com/questions/25255413how-did-haskell-add-turing-completeness-to-system-f
