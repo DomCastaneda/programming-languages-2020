@@ -15,7 +15,7 @@ ID: 2339062
 
 ## [Blog 5](https://github.com/DomCastaneda/programming-languages-2020/blob/master/Blogs/Blog5.md): Lambda and Haskell
 
-## [Blog 6](https://github.com/DomCastaneda/programming-languages-2020/blob/master/Blogs/Blog6.md): Turing's Thesis
+## [Blog 6](https://github.com/DomCastaneda/programming-languages-2020/blob/master/Blogs/Blog6.md): On Computable Numbers, With an Application to the Entscheidungsproblem
 
 ## [Blog 7](https://github.com/DomCastaneda/programming-languages-2020/blob/master/Blogs/Blog7.md): The Turing Machine
 
