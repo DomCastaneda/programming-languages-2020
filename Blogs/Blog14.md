@@ -1,6 +1,9 @@
 # Week 14 Blog
-**I will go over some research I did on Kolmogorov complexity. It is complex, but I am going to try and explain it in a simple way.**
+**For this blog I will go over some information I found on Kolmogorov complexity.**
 ## Kolmogorov Complexity
+The Kolmogorov complexity of an object is the length of a shortest computer program that produces the object as output.
+
+For Example, 
 
 ## Self-delimiting Code
 
