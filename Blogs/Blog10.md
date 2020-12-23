@@ -1,5 +1,5 @@
 # Week 10 Blog
-**This blog goes over Turing completeness, and I found an interesting stackoverflow that discusses Haskell and Turing completeness.**
+**This blog goes over Turing completeness, and I found an interesting stackoverflow discussion that explains how Haskell can be considered Turing complete.**
 ## Turing Completeness
 Turing completeness is a property of a computational system that states the system is able to simulate any Turing machine. Any program isn't technically going to be fully Turing complete, because no computer can yet copmute Graham's number. These programs are called Linear Bounded Automaton and they're nearly identical to Turing machines, except there is a left and right boundary to the 'tape'. 
 
