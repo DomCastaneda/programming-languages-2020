@@ -16,7 +16,7 @@ The Chomsky Hierarchy in Theory of Computation states that languages are divided
 
 **Type 3 (Regular Grammar)** is a language that can be accepted by a finite state automaton.The finite automata or finite state machine is an abstract machine which have five elements or tuple. It is a very restricted language.
 
-<img src="https://devopedia.org/images/article/210/7090.1571152901.jpg" alt="Chomsky Hierarchy" class = "alignleft" height = "300" width="500"/>
+<img src="https://devopedia.org/images/article/210/7090.1571152901.jpg" alt="Chomsky Hierarchy2" class = "alignleft" height = "300" width="500"/>
 
 ### References
 https://www.geeksforgeeks.org/chomsky-hierarchy-in-theory-of-computation/
