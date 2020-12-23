@@ -56,7 +56,7 @@ ghci> :t 1 == 2
 The command :t on an expression prints out the expression followed by :: and its type.
 
 ### References
-https://www.freecodecamp.org/news/how-to-format-code-in-markdown/
+[Markdown](https://www.freecodecamp.org/news/how-to-format-code-in-markdown/)
 
-http://learnyouahaskell.com/introduction
+
 

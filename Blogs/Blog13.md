@@ -19,8 +19,8 @@ The Chomsky Hierarchy in Theory of Computation states that languages are divided
 <img src="https://devopedia.org/images/article/210/7090.1571152901.jpg" alt="Chomsky Hierarchy2" class = "alignleft" height = "300" width="500"/>
 
 ### References
-https://www.geeksforgeeks.org/chomsky-hierarchy-in-theory-of-computation/
+[Chomsky GeeksforGeeks](https://www.geeksforgeeks.org/chomsky-hierarchy-in-theory-of-computation/)
 
-https://en.wikipedia.org/wiki/Linear_bounded_automaton
+[Linear Bounded Automaton Wiki](https://en.wikipedia.org/wiki/Linear_bounded_automaton)
 
-https://www.geeksforgeeks.org/introduction-of-pushdown-automata/
+[Pushdown Automata GeeksforGeeks](https://www.geeksforgeeks.org/introduction-of-pushdown-automata/)

@@ -30,10 +30,10 @@ If the input is not empty, the program will loop forever. If the input is empty,
 <img src="https://serokell.io/files/sr/srzhuly3.halting-problem.png" alt="Turing Machine" class = "alignleft" height = "300" width="500"/>
 
 ### References
-https://en.wikipedia.org/wiki/Computability_theory
+[Computability Wiki](https://en.wikipedia.org/wiki/Computability_theory)
 
-https://www.sciencedirect.com/topics/mathematics/computability-theory
+[Computability ScienceDirect](https://www.sciencedirect.com/topics/mathematics/computability-theory)
 
-https://en.wikipedia.org/wiki/Turing_reduction
+[Turing Reduction Wiki](https://en.wikipedia.org/wiki/Turing_reduction)
 
-https://brilliant.org/wiki/halting-problem/
+[Halting Problem Wiki](https://brilliant.org/wiki/halting-problem/)

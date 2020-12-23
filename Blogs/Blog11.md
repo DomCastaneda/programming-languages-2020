@@ -14,4 +14,4 @@ The Church Turing Thesis concept of an effective method in logic is explained at
 The thesis basically states that a function with natural numbers is an effective method if and only if it is computable by a Turing machine.
 
 ### References
-https://plato.stanford.edu/entries/church-turing/#ThesHist
+[Church-Turing Stanford](https://plato.stanford.edu/entries/church-turing/#ThesHist)

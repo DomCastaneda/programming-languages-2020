@@ -27,4 +27,4 @@ The Turing machine carries out a uniquely determined succession of operations wh
 <img src="https://iq.opengenus.org/content/images/2019/07/TurigMachine.png" alt="Turing Machine" class = "alignleft" height = "300" width="500"/>
 
 ### References
-http://www.scholarpedia.org/article/Turing_machine
+[Turing Machine Scholarpedia](http://www.scholarpedia.org/article/Turing_machine)

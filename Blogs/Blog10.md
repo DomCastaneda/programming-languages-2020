@@ -24,6 +24,6 @@ y f = u (Rec u)
   where u x = f $ unrec x x
 ```
 ### References
-https://medium.com/@evinsellinwhat-exactly-is-turing-completeness-a08cc36b26e2
+[Turing Completeness Medium.com](https://medium.com/@evinsellinwhat-exactly-is-turing-completeness-a08cc36b26e2)
 
-https://stackoverflow.com/questions/25255413how-did-haskell-add-turing-completeness-to-system-f
+[Stackoverflow Haskell Turing Completeness](https://stackoverflow.com/questions/25255413how-did-haskell-add-turing-completeness-to-system-f)

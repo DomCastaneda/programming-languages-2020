@@ -48,4 +48,4 @@ Here is the Church encoding of non-negative integers:
 ```
 
 ### References
-https://www.cs.umd.edu/class/fall2017/cmsc330/lectures/02-lambda-calc-encodings.pdf
+[Lambda Encodings](https://www.cs.umd.edu/class/fall2017/cmsc330/lectures/02-lambda-calc-encodings.pdf)

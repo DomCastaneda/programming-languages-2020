@@ -20,8 +20,8 @@ For L, if there exists a M that halts if and only if its input belongs to L, the
 
 
 ### References
-https://plato.stanford.edu/entries/church-turing/
+[Church-Turing Stanford](https://plato.stanford.edu/entries/church-turing/)
 
-https://cs.stackexchange.com/questions/62668/are-turing-machines-and-formal-languages-the-same-mathematical-object
+[Turing Formal Languages StackExchange](https://cs.stackexchange.com/questions/62668/are-turing-machines-and-formal-languages-the-same-mathematical-object)
 
-https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
+[Turing's Paper](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)

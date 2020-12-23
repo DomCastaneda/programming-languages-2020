@@ -51,6 +51,4 @@ data Color = Blue | Yellow | Red
 ```
 
 ### References
-https://www.haskell.org/tutorial/goodies.html
-
-https://www.haskell.org/tutorial/functions.html
+[Haskell Functions](https://www.tutorialspoint.com/haskell/haskell_functions.htm)

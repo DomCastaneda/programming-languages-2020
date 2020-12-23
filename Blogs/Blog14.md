@@ -19,4 +19,4 @@ The complexity of a string is the length of the shortest possible description of
 <img src="https://imgs.xkcd.com/comics/kolmogorov_directions.png" alt="Complexity" class = "alignleft" height = "500" width="300"/>
 
 ### References
-https://en.wikipedia.org/wiki/Kolmogorov_complexity
+[Kolmogorov Complexity Wiki](https://en.wikipedia.org/wiki/Kolmogorov_complexity)
