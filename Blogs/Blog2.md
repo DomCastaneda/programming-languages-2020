@@ -1,5 +1,5 @@
 # Week 2 Blog
-**Basic Haskell Syntax**
+## Basic Haskell Syntax
 
 Hasklell, a functional languauge, evaluates expressions and yields values.
 ```
@@ -19,7 +19,7 @@ x:xs
 1:(2:(3:[]))
 ```
 
-**Typing in Haskell** 
+## Typing in Haskell
 ```
 1  :: Integer
 'a' :: Char
@@ -29,7 +29,7 @@ int :: Integer -> Integer
 ```
 "::" means "has type" and all type errors are detected at compile time
 
-**Polymorphic Types**
+## Polymorphic Types
 
 Haskell has polymorphic types, which describes families of types.
 ```
@@ -41,7 +41,7 @@ tail (x:xs) = xs
 ```
 Function head returns the first element of a list, function tail returns all but the first.
 
-**User Defined Types**
+## User Defined Types
 
 Define your own types using a data declaration.
 For Example:

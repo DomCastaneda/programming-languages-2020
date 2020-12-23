@@ -1,5 +1,5 @@
 # Week 4 Blog
-**Installing BNFC on macOS**
+## Installing BNFC on macOS
 Here is my experience with installing BNFC on my MacBook Pro. 
 
 Before you start, you must have Haskell already installed on your system. In order to follow the first step in terminal, I needed to download Homebrew from https://brew.sh/. I had to figure this part out because brew was not working as a command in terminal so I had to look up what it was and when I downloaded this, I was able to run the command. The next step would be to run in terminal:
